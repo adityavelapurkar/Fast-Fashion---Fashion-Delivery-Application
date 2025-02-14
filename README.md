@@ -16,7 +16,7 @@ Led a team of 5 members to initiate and complete a Fast Fashion Delivery Applica
 - Team Leadership and Collaboration
 - Agile Project Management
 
-## **Technologies Used
+## **Technologies Used**
 - Gantt Charts, PERT Analysis
 - Risk Assessment Tools
 - Budget Analysis Tools
